@@ -2,7 +2,7 @@
     // The basic assignment operator is "=". Your first inclination might be to think of this as "equal to". 
     //Don't. It really means that the left operand gets set to the value of the expression on the right (that is, "gets set to")
 
-    $a= 20;
+    $a = 20;
     $a += 30;
     echo $a .'<br>';
 
